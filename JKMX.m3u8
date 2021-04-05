@@ -1,0 +1,9 @@
+#EXTM3U
+AZTECA 1 #EXTINF:0 type="stream" channelId="-1" name="MX:Azteca1" group="México" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/245px-Azteca_UNO_logo_2020.webp.png" tvg-country="MX", Azteca UNO
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/ekqf2gz.m3u8?s=h8ATsiEpGEb_oJygYg_3Zw&e=1617608513
+
+AZTECA 7 #EXTINF:0 type="stream" channelId="-2" name="MX:Azteca7" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Azteca SIETE
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/yv4z9a.m3u8?s=jmF7iX44C9eRlenEHRL8Og&e=1617609668
+
+Las Estrellas #EXTINF:0 type="stream" channelId="-2" name="MX:Azteca7" group="México" logo="https://cdn.worldvectorlogo.com/logos/azteca-7-39124.svg" tvg-country="MX", Las Estrellas
+https://q88nf9xcc8jnm56s.ezcdn483.net:8443/hls/dscs0wr97wf.m3u8?s=3aRNiA3euu7ItkIcwJvIbQ&e=1617611678
